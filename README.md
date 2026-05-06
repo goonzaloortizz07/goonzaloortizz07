@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning Web Development and Machine Learning
 - ➡️ I'm looking to collaborate on Web Dev Projects 
-- 📫 To contact me: <a href = "https://www.linkedin.com/in/devansh-kant-kashyap-889742319/" >LinkedIn</a> 
+- 📫 To contact me:
 
 ## Tech Stack
 
